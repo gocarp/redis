@@ -1,0 +1,7 @@
+github.com/gocarp/codes v1.0.0 h1:qxD6uuCohXIijORHWPlk+ywEpNV9ZDAzE+cEs8XPzZo=
+github.com/gocarp/codes v1.0.0/go.mod h1:RPIHuZOUDKCu6nWcWRzlSwypwpFlvgWxsZDsmjVw/F0=
+github.com/gocarp/errors v1.0.1 h1:ngpozIfucKINd5o1l1j7Np0yH6cJhqthiKIN+T2PkS0=
+github.com/gocarp/errors v1.0.1/go.mod h1:MRXWLSHv7+frBaa2ynTICpKUl90Lug6uavhhk8Sx8pk=
+github.com/gocarp/helpers v1.1.0 h1:qqCCzXQxLYmEqgl/F0eWHXNWRJzy07xdTSPzApMvR3Q=
+github.com/gocarp/helpers v1.1.0/go.mod h1:rFsUamP1SZRFr6jMMwy+4upA1vIvXaeFdSUDYV/CQRY=
+github.com/gocarp/helpers v1.1.2/go.mod h1:aJjP2OX0AptKG24BZhGms+laYWRIgfKEsSF9379vilQ=
